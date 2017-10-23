@@ -10,5 +10,5 @@ package javaapplication1;
  * @author Student
  */
 public class asd {
-    
+    asdasdsd
 }
